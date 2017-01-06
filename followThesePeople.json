@@ -1,0 +1,13 @@
+{
+  "followThesePeople": {
+    "description": "This is a list of people that I have to follow"
+    "list": [
+      {name:'Jeff Sutherland', tags:'scrum, process'},
+      {name:'Dan Pena', tags:'motivational speaker, earning money'},
+      {name:'Robert Kiyosaki', tags:'motivational speaker, earning money'},
+      {name:'', tags:''},
+      {name:'', tags:''},
+      {name:'', tags:''}
+    ]
+  }
+}
