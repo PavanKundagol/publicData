@@ -1,0 +1,11 @@
+{
+  "linksToTrack": {
+    "description": "I have track these links from now on!",
+    "list":[
+      {"url":"http://www.greatplacetowork.in/best-companies/indias-best-companies-to-work-for", "tags":"job search"},
+      {"url":"", "tags": ""},
+      {"url":"", "tags": ""},
+      {"url":"", "tags": ""}
+    ]
+  }
+}
