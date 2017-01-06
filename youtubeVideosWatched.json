@@ -1,0 +1,23 @@
+{
+  "youtubeVideosWatched": {
+    "description": "These are the videos that I have watched and taken note of",
+    "url": "https://www.youtube.com/watch?v={{id}}",
+    "list": [
+      {id: 'lo0X2ZdElQ4', tags:'meditation, consciousness'},
+      {id: 'gDMOc_WCTW0', tags:''},
+      {id: '4O2JK_94g3Y', tags:''},
+      {id: 'aoRHq0TQnZM', tags:''},
+      {id: 'Xco3UjLLvGo', tags:''},
+      {id: 'LNHBMFCzznE', tags:''},
+      {id: 'H2vN2QXZGnc', tags:''},
+      {id: 'BW24z3Dlsu0', tags:''},
+      {id: 'zPB2EC0Z9z4', tags:''},
+      {id: 'BqrXwKzACQw', tags:''},
+      {id: 'aIfwbEvXtwo', tags:''},
+      {id: 's4thQcgLCqk', tags:'agile manifesto, scrum creator, super good'},
+      {id: 'lCYpJrfTi04', tags:''},
+      {id: '', tags:''},
+      {id: '', tags:''}
+    ]
+  }
+}
