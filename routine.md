@@ -1,0 +1,21 @@
+# 14 ways to instantly boost your mood before 9am
+	- Do something nice for someone else
+	- Smile even if you don't feel like it
+	- Turn up the tunes
+	- Get sweaty
+	- Hug someone
+	- Practice yoga
+	- Write down what you're thankful for
+	- Jump on the aromatherapy bandwagon
+	- Meditate
+	- Go outside
+	- Steer clear of technology
+	- Set a timer for 3 or 5 minutes, for happy tidying/cleaning session
+	- Make someone laugh (not hurt others or yourself)
+		- so make wierd faces
+		- play a character new or already known one which is also an imagined one
+			- make sure to finish the joke
+			- make sure to commit to the voice
+			- make sure to commit to the gesticulations or gestures
+			- make sure to commit to the facial expressions
+			- make sure it is about a specific event
