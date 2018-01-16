@@ -19,3 +19,27 @@
 			- make sure to commit to the gesticulations or gestures
 			- make sure to commit to the facial expressions
 			- make sure it is about a specific event
+
+# Diet
+	- Veg Salad with lemon
+	- One fruit a day if possible 
+		(
+			Pomo, Apple, Kiwi, Avocados, Berries, 
+			Citrus fruits which is not sweet, a few grapes the not sweet ones, 
+			Apricots, not sweet Papaya, Starfruit, not sweet Guava, 
+			not sweet fruits in general limited quantity
+		)
+	- Sprouts Boiled with Lemon coconut grated
+	- Rosted with out oil Sprouts
+	- 4 almonds, 4 walnets etc thingee
+	- Dal direct or with Vegetables (added with leafy or lentils)
+	- Direct one spoon 100% chocolate powder
+	- Small cup of musili
+	- A lot of coconut related, either water, grated, milk, dry, oil
+
+# Exercise
+	- Yoga
+	- Movement
+	- Pomodoro Breaks
+
+# Have to put dresses which have to be washed in the laundry bag
