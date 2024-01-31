@@ -1,0 +1,27 @@
+url.https://www.youtube.com/watch?v=PeThw9Fjtz8
+  subject.7 High-Income Skills that AI Can’t Replace in next decade | Best Skills 2024 | Top Skills for Future
+    01.Problem Solving Skill
+      01.Document your approach
+      02.Search for how others have solved similar problems
+      03.Note different approaches
+      04.Compare your approach with each of the other approaches
+    02.Personal Brand In LinkedIN
+      01.Comment on other relavent posts
+      02.Create articles
+    03.Communication Basics
+      01.Create emails as list
+      02.Prioritize this list
+      03.Check which points are in your favor vs others (persons/company)
+      04.Put the high prioriy ones first and then the rest
+    04.Take Calculated Risks
+      01.Identify Risks
+      02.Test taking small risks to gain wisdom
+      03.Slowing but studily increase risk when it makes sense
+    05.Pattern Recognition
+      01.Analyse data for patterns
+      02.Increase domain knowledge to identify useful patterns
+      03.Do Exploratory Data Analysis EDA by using Kaggle
+    06.Side Hussels
+      01.Identify areas of interest and pick one and start small
+      02.Do it with consistency
+      03.Make money out the side hussle/grow in someway
